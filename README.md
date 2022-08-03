@@ -18,6 +18,8 @@ $python joininfo.py
 <br /> 
 You will get notification when device will connect to wifi.<br />
 <br />
-YOU NEED TO CHANGE joininfo.py FILE BECAUSE IT WILL NOT WORK!!!<br />
+
+## YOU NEED TO CHANGE joininfo.py FILE BECAUSE IT WILL NOT WORK!!!<br />
+
 <br />
 Put target's ip or hostname or id etc.
