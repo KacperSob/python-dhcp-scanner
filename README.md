@@ -5,4 +5,11 @@ Installation:<br />
 ```console
 $pip install playsound
 $pip install scapy
+$git clone https://github.com/KacperSob/python-dhcp-scanner
+```
+<br />
+How to run: <br />
+```console
+$cd python-dhcp-scanner
+$python joininfo.py
 ```
